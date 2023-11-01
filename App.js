@@ -8,7 +8,7 @@ export default function App() {
     <View style={styles.container}>
    <Routes/>
     
-    <StatusBar style='auto'></StatusBar>
+    <StatusBar style='aut'></StatusBar>
     </View>
   );
 }
